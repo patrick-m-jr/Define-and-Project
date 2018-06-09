@@ -1,5 +1,5 @@
 # Define-and-Project
-Quick solution for defining and projecting several shapefiles with an undefined coordinate system. This is a v10.0 ESRI Toolbox
+Quick solution for defining and projecting several shapefiles with an undefined coordinate system. This is a v10.0 ESRI Toolbox. To download, click on the zip file above.
 
 ## Basics
 
